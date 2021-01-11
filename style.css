@@ -1,0 +1,16 @@
+td{
+    border:1px solid white;
+}
+tr{
+    border:1px solid white;
+}
+table{
+    border:1px solid white;
+    border-collapse:collapse;
+}
+img{
+    width:300px;
+}
+footer{
+    background-color:orange;
+}
